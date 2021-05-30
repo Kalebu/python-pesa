@@ -1,0 +1,1 @@
+(self.webpackChunkpypesa=self.webpackChunkpypesa||[]).push([[350],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Getting started","permalink":"/pypesa/blog/getting-started"}]}')}}]);
