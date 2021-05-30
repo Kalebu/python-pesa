@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>pypesa Blog</title>
+        <link>https://kalebu.github.io/blog</link>
+        <description>pypesa Blog</description>
+        <lastBuildDate>Sun, 30 May 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Getting started]]></title>
+            <link>https://kalebu.github.io/python-pesa/blog/getting-started</link>
+            <guid>getting-started</guid>
+            <pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello folks, I just moved the documentation from a github page to docusaurus static site, it looks promising, let me know what you think]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kalebu.github.io/blog</id>
+    <title>pypesa Blog</title>
+    <updated>2021-05-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kalebu.github.io/blog"/>
+    <subtitle>pypesa Blog</subtitle>
+    <icon>https://kalebu.github.io/img/4-2-python-logo-picture_64x64.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Getting started]]></title>
+        <id>getting-started</id>
+        <link href="https://kalebu.github.io/python-pesa/blog/getting-started"/>
+        <updated>2021-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello folks, I just moved the documentation from a github page to docusaurus static site, it looks promising, let me know what you think]]></summary>
+    </entry>
+</feed>

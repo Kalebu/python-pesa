@@ -1,0 +1,1 @@
+(self.webpackChunkpypesa=self.webpackChunkpypesa||[]).push([[128],{4498:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/python-pesa/blog/tags","slug":"mpesa","name":"mpesa","count":1,"permalink":"/python-pesa/blog/tags/mpesa"}')}}]);
